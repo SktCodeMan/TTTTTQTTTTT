@@ -5,3 +5,5 @@ keywords: Modern, Blogging, Fun
 author: 晴天
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+
+theme: jekyll-theme-architect
